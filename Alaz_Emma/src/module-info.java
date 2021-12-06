@@ -1,0 +1,2 @@
+module Alaz_Emma {
+}
